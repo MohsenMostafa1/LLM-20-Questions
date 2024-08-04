@@ -7,5 +7,5 @@
 #### Each team will consist of one guesser LLM, responsible for asking questions and making guesses, and one answerer LLM, responsible for responding with "yes" or "no" answers. Through strategic questioning and answering, the goal is for the guesser to correctly identify the secret word in as few rounds as possible.
 
 <figure>
-        <img src="https://www.kaggle.com/competitions/61247/images/header" alt ="Audio Art" style='width:800px;height:500px;'>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfn77tZEbkKY6Xd-sEQqvZr6r_lEoNromLQ&s" alt ="Audio Art" style='width:800px;height:500px;'>
         <figcaption>
