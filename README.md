@@ -1,4 +1,4 @@
-# LLM-20-Questions
+# LLM-Questions and Answers
 
 #### Is it a person, place or thing? Is it smaller than a bread box? Is it smaller than a 70B parameter model?
 
